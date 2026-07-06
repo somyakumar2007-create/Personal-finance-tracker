@@ -1,0 +1,8 @@
+Type,Source,Amount,Category,Date,Description
+Income,Salary,100000.0,Salary,2026-07-06,
+Expense,Rent,30000.0,Rent,2026-07-06,
+Expense,Food,8000.0,Food,2026-07-06,
+Expense,Shopping,20000.0,Shopping,2026-07-06,
+Income,Freelancing,5000.0,Freelancing,2026-07-06,
+Income,Salary,20000.0,Freelancing,2026-07-06,
+Expense,Rent,9500.0,Rent,2026-07-06,
